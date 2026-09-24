@@ -3,7 +3,7 @@ module github.com/langgenius/dify/dify-agent-runtime
 go 1.26
 
 require (
-	github.com/landlock-lsm/go-landlock v0.9.0
+	github.com/landlock-lsm/go-landlock v0.10.1
 	github.com/spf13/cobra v1.10.2
 	modernc.org/sqlite v1.37.1
 )
